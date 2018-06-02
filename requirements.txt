@@ -1,1 +1,6 @@
-matplotlib==2.1
+matplotlib==2.2.2
+healpy==1.11.0
+numpy==2.6.5
+ipywidgets==7.2.1
+ipython==6.4.0
+scipy==0.14.0
