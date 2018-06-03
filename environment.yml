@@ -1,0 +1,5 @@
+name: astroparticle-env
+channels:
+  - defaults
+prefix: /Users/avocado/anaconda2/envs/astroparticle-env
+
