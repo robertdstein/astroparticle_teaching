@@ -1,5 +1,8 @@
 name: astroparticle-env
-channels:
-  - defaults
-prefix: /Users/avocado/anaconda2/envs/astroparticle-env
+dependencies:
+  - python=2.7
+  - numpy
+  - scipy
+  - matplotlib
+  
 
